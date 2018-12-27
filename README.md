@@ -1,1 +1,1 @@
-WikipediaAnalysis
+Py-Spark implementation of the 6th chapter of the book "Advanced Analytics with Spark: Patterns for Learning from Data at Scale" (Uri Laserson, Sean Owen, Sandy Ryza, Josh Wills), originally implemented in scala. The goal is to apply the LSA (Latent Semantic Analysis) algorithm to a corpus of Wikipedia articles. In order to do this, we employ the Wikipedia Data Dumps dataset 
